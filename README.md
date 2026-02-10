@@ -87,7 +87,3 @@ The original IMU sensor data used for training and testing is proprietary and se
 * I am available for detailed technical discussions regarding the feature engineering pipeline or the comparative model analysis.
 
 ---
-
-We now have strong, professional READMEs for both of your group projects. Let's move on to drafting a template for your **individual local projects** (like Computer Vision/Robotics or MATLAB).
-
-Which individual project should we tackle next: **The Computer Vision/Robotics project** or the **MATLAB-only codes**?
